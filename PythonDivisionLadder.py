@@ -1,5 +1,4 @@
 import os
-import time
 
 def run_ladder(n):
     temp_n = n
